@@ -1,4 +1,3 @@
-```text
 # SPEED – Real‑time GPS Speedometer for Termux
 
 Minimal speedometer that uses `termux-location` (GPS) and serves a live dashboard on the first available port ≥10001.  
@@ -39,6 +38,4 @@ Log file example
 2025-02-18 15:30:05 : 42
 2025-02-18 15:30:10 : 44
 ...
-```
-
 ```
